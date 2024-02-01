@@ -1,8 +1,22 @@
-## I've just completed a simple book-selling application using React Native CLI, Redux, and Axios! 
+## BookSeller-APP
 
 
 
 
-https://github.com/sevcan01/BookSeller/assets/127621405/00a1eda4-5b7e-40bd-a343-c953bacd94e5
 
-# BookSeller-App
+
+
+
+
+
+
+
+
+
+
+
+Screen gif
+
+
+https://github.com/zafer414108/BookSeller-App/assets/147662873/076e97e2-0149-47d2-9cde-e95675f320ac
+
